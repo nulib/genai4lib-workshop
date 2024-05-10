@@ -1,0 +1,10 @@
+datasets
+einops
+langchain
+langchain_aws
+langchain_openai
+langchain_postgres
+matplotlib
+numpy
+scikit-learn
+sentence_transformers
