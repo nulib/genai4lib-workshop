@@ -1,10 +1,13 @@
 datasets
 einops
+ipywidgets==8.1.2
 langchain
 langchain_aws
 langchain_openai
 langchain_postgres
 matplotlib
+mplcursors
+mteb
 numpy
 scikit-learn
 sentence_transformers
