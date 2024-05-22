@@ -1,0 +1,12 @@
+{
+  "local": {
+    "name": "local",
+    "db_type": "2",
+    "db_id": "local",
+    "db_host": "pgvector",
+    "db_port": "5432",
+    "db_user": "jupyter",
+    "db_pass": "jupyter",
+    "db_name": "jupyter"
+  }
+}

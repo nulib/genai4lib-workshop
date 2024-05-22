@@ -1,7 +1,11 @@
 datasets
 einops
+ipympl
 ipywidgets==8.1.2
+jupyterlab-sql-explorer
+jupyterlab_unfold
 langchain
+langchain-community
 langchain_aws
 langchain_openai
 langchain_postgres
@@ -9,5 +13,6 @@ matplotlib
 mplcursors
 mteb
 numpy
+psycopg2
 scikit-learn
 sentence_transformers
