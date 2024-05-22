@@ -15,4 +15,5 @@ mteb
 numpy
 psycopg2
 scikit-learn
+seaborn
 sentence_transformers

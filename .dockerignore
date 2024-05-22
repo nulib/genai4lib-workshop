@@ -1,5 +1,6 @@
 .dockerignore
 .env
+.Trash-*
 Dockerfile
 docker-compose.yml
 node_modules
