@@ -8,11 +8,15 @@ services:
     image: nulib/genai-workshop
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: jupyter/Dockerfile
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
     volumes:
       - ${NOTEBOOK_DIR:-genai-workshop}:/var/notebooks
     ports:
       - 8888:8888
+    depends_on:
+      - pgvector
   pgvector:
     image: pgvector/pgvector:pg16
     environment:
