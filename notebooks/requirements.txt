@@ -6,6 +6,7 @@ jupyterlab-sql-explorer
 jupyterlab_unfold
 langchain
 langchain-community
+langchain-experimental
 langchain_aws
 langchain_openai
 langchain_postgres
@@ -13,6 +14,7 @@ matplotlib
 mplcursors
 mteb
 numpy
+open_clip_torch
 psycopg2
 scikit-learn
 seaborn
