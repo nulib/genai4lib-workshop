@@ -1,3 +1,4 @@
+bertopic
 datasets
 einops
 ipywidgets==8.1.2
@@ -5,9 +6,12 @@ langchain
 langchain_aws
 langchain_openai
 langchain_postgres
+litellm
 matplotlib
 mplcursors
 mteb
 numpy
+pandas
 scikit-learn
 sentence_transformers
+smolagents
