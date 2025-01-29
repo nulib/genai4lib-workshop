@@ -4,8 +4,11 @@ einops
 ipywidgets==8.1.2
 langchain
 langchain_aws
+langchain_huggingface
 langchain_openai
 langchain_postgres
+langchain-community
+langchain-text-splitters
 litellm
 matplotlib
 mplcursors
@@ -15,3 +18,4 @@ pandas
 scikit-learn
 sentence_transformers
 smolagents
+sqlite-vss
